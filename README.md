@@ -1,2 +1,2 @@
-# pose-model
-control game by pose
+위에서 떨어지는 조각을 받아야 합니다..
+왼손/오른손을 올려 조작할 수 있습니다.
